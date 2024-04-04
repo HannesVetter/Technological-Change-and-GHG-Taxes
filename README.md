@@ -7,13 +7,14 @@ It is examined to what extent an ecological tax reform, which uses the revenue f
 The corresponding paper will be published in 2024.
 
 Regarding the files:
+[src.zip](https://github.com/HannesVetter/Technological-Change-and-GHG-Taxes/files/14876070/src.zip)
 - Run the model in "main".
 - For the model itself see "model".
 - Parameters can be altered in "parameter", for example, the choice of the type of reform or the tax structure of the tax introduction.
 - The file "simulation" creates a dashboard for a visual overview and is optional.
 
 To get the results in the corresponding folders, create these folders:
-- "Data"
+- "Data" (e.g., [output.zip](https://github.com/HannesVetter/Technological-Change-and-GHG-Taxes/files/14876068/output.zip))
 - "Plot"
 
 To contact the author, please call or send an e-mail: https://www.fest-heidelberg.de/hannes-vetter/

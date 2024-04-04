@@ -1,6 +1,6 @@
 # Technological-Change-and-GHG-Taxes
 
-An economic PYTHON model to simulate technological development in the long term in different scenarios: no reform, "ecological tax reform" (ETR) or "Oekobonus").
+An economic PYTHON model to simulate technological development in the long term in different scenarios: no reform, "ecological tax reform" (ETR) or "Oekobonus".
 
 It is examined to what extent an ecological tax reform, which uses the revenue from introduced GHG taxes to relieve companies of labor costs, can influence technological development in the long term. Technological development takes place in the firms, which decide each month based on the expected costs to keep the old technology or adopt the new, randomly generated technology. The parameters that can be influenced by technological progress are labor productivity and the GHG output factor.
 
